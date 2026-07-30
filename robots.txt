@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://holland-casinonl.onrender.com/sitemap.xml
